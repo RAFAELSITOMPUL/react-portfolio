@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Bekerja di Google Maps", "Mengurangi waktu muat hingga 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2024",
+    "endDate": "Aug, 2022",
+    "experiences": ["Bekerja pada Windows 11", "Merancang panel kontrol"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2023",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Bekerja di perpustakaan komponen",
+      "Membantu membuat komponen UI"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

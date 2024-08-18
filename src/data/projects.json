@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "Ini adalah proyek yang dibuat untuk mempelajari bahasa terbaru dengan membangun sebuah aplikasi.",
+    "skills": ["Reactjs", "Expressjs", "Nodejs","TailwindCss"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "Ini adalah proyek yang dibuat untuk mempelajari bahasa terbaru dengan membangun sebuah aplikasi.",
+    "skills": ["Reactjs", "Expressjs", "Nodejs", "Sass","Php"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "Ini adalah proyek yang dibuat untuk mempelajari bahasa terbaru dengan membangun sebuah aplikasi.",
+    "skills": ["Reactjs", "Expressjs", "Nodejs","Mysql"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
